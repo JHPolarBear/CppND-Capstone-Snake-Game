@@ -40,13 +40,13 @@ In this project, you can build your own C++ application or extend this Snake gam
 
 ## Rubric Points
 
-* Loops, Functions, I/O
+### Loops, Functions, I/O
   1. The project demonstrates an understanding of C++ functions and control structures.
     - All functions necessary for the snake game are managed by class, and all functions are processed in the order of input -> update -> render in the main loop.
 
 * Object Oriented Programming
   1. The project uses Object Oriented Programming techniques.
-    - Items are created and managed as classes.
+    * Items are created and managed as classes.
     - Score class manage score using singleton pattern.
     - Game class contains all necessary components(item, snake. ...) and manage them using loop.
     
