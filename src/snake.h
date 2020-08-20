@@ -4,6 +4,8 @@
 #include <vector>
 #include "SDL.h"
 
+#define SNAKE_INIT_SPEED 0.1f
+
 class Snake {
  public:
   enum class Direction { kUp, kDown, kLeft, kRight };
@@ -21,7 +23,7 @@ class Snake {
 
   Direction direction = Direction::kUp;
 
-  float speed{0.1f};
+  float speed{SNAKE_INIT_SPEED};
   int size{1};
   bool alive{true};
   float head_x;
