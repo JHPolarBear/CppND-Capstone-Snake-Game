@@ -32,20 +32,19 @@ In this project, you can build your own C++ application or extend this Snake gam
 
 ## Rubric Points
 
-1. The project demonstrates an understanding of C++ functions and control structures.
+* Loops, Functions, I/O
+  1. The project demonstrates an understanding of C++ functions and control structures.
 
-2. The project uses Object Oriented Programming techniques.
-
-3. Classes use appropriate access specifiers for class members.
-
-4. Class constructors utilize member initialization lists.
-
-5. Classes abstract implementation details from their interfaces.
-6. Classes encapsulate behavior.
-
-7. Classes follow an appropriate inheritance hierarchy.
-8. Derived class functions override virtual base class functions.
-
-9. The project uses smart pointers instead of raw pointers.
+* Object Oriented Programming
+  1. The project uses Object Oriented Programming techniques.
+  2. Classes use appropriate access specifiers for class members.
+  3. Class constructors utilize member initialization lists.
+  4. Classes abstract implementation details from their interfaces.
+  5. Classes encapsulate behavior.
+  6. Classes follow an appropriate inheritance hierarchy.
+  7. Derived class functions override virtual base class functions.
+  
+* Memory Management
+  1. The project uses smart pointers instead of raw pointers.
 
 
